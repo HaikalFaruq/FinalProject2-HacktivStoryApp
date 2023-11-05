@@ -35,7 +35,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:alpha="0"
-            android:text="@string/hi_welcome_to_dicoding_story"
+            android:text="@string/hi_welcome_to_hacktiv_story"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="@+id/img_welcome"
