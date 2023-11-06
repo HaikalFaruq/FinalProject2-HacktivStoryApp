@@ -33,7 +33,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" /> RESULT 
 Berikut adalah hasil dari FINAL PROJECT 2:
 
-<h3 align="left"> 
-    <img src="" width="450" height="800" />
+![Frame 6](https://github.com/HaikalFaruq/FinalProject2-HacktivStoryApp/assets/50310521/9404115b-6638-4752-88b3-c7b9499bbad0)
 
 </h3> 
