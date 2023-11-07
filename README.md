@@ -23,7 +23,7 @@
 | Welcome Page | ✔ |
 | Login Page | ✔ |
 | Register Page | ✔ |
-| Story Lish Page | ✔ |
+| Story List Page | ✔ |
 | Add Data Page | ✔ |
 | View Data Page | ✔ |
 | Maps Page | ✔ |
